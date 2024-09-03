@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsArray/ThreadsArray.iml" filepath="$PROJECT_DIR$/ThreadsArray/ThreadsArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsFrogRace/ThreadsFrogRace.iml" filepath="$PROJECT_DIR$/ThreadsFrogRace/ThreadsFrogRace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsLinuxPing/ThreadsLinuxPing.iml" filepath="$PROJECT_DIR$/ThreadsLinuxPing/ThreadsLinuxPing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsLoopTiming/ThreadsLoopTiming.iml" filepath="$PROJECT_DIR$/ThreadsLoopTiming/ThreadsLoopTiming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/so-exercicios-threads.iml" filepath="$PROJECT_DIR$/.idea/so-exercicios-threads.iml" />
+    </modules>
+  </component>
+</project>
